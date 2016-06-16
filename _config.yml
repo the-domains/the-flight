@@ -2,6 +2,7 @@ name: the flight
 favicon: null
 layout_spectrum: 0.06468648393638432
 typography_spectrum: 0.24072749563492835
+title: The Flight Music
 cta:
   domain: null
   bucket: null
